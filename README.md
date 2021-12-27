@@ -3,6 +3,7 @@
 The setups steps expect following tools installed on the system.
 
 - Github
+- Yarn
 - Ruby [3.0.3](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
 - Rails [6.1.4.4](https://github.com/organization/project-name/blob/master/Gemfile#L12)
 
